@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab1f3b43-7d20-4559-92d4-189857621edb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Projeto de Desenvolvimento 1 - Agenda de contatos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agenda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conjuntos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dicionario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tupla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto Agenda/agenda_na_mao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto Agenda/soma.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto Agenda/agenda.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto Agenda/agenda.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,22 +36,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.conjuntos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dicionario.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tupla.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.agenda.executor": "Run",
+    "Python.agenda_na_mao.executor": "Run",
+    "Python.conjuntos.executor": "Run",
+    "Python.dicionario.executor": "Run",
+    "Python.lista.executor": "Run",
+    "Python.soma.executor": "Run",
+    "Python.tupla.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Python.dicionario">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kevin\OneDrive\Documentos\DEVELOPMENT\SYCP-Solyd-Offensive-Security\Projeto de Desenvolvimento 1 - Agenda de contatos\Projeto Agenda" />
+      <recent name="C:\Users\kevin\OneDrive\Documentos\DEVELOPMENT\SYCP-Solyd-Offensive-Security\Projeto de Desenvolvimento 1 - Agenda de contatos\Introdução a conjuntos, dicionarios, listas e tuplas" />
+    </key>
+  </component>
+  <component name="RunManager">
     <configuration name="dicionario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projeto de Desenvolvimento 1 - Agenda de contatos" />
       <option name="ENV_FILES" value="" />
@@ -71,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dicionario.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\kevin\OneDrive\Documentos\DEVELOPMENT\SYCP-Solyd-Offensive-Security\Projeto de Desenvolvimento 1 - Agenda de contatos\Introdução a conjuntos, dicionarios, listas e tuplas\dicionario.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +96,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tupla.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\kevin\OneDrive\Documentos\DEVELOPMENT\SYCP-Solyd-Offensive-Security\Projeto de Desenvolvimento 1 - Agenda de contatos\Introdução a conjuntos, dicionarios, listas e tuplas\tupla.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
